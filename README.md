@@ -42,8 +42,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/z4nt/z4nt/output/snake.svg" alt="Snake animation" />
-
-###
